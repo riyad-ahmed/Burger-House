@@ -55,9 +55,13 @@ h1,h2,h3,h4,h5,a,p{
 } */
 
 .nev{
+
   width: 90%;
   margin: auto;
   margin-top: 0px;
+  display: flex;
+  align-items: flex-start;
+  overflow: hidden;
 }
 
 
@@ -75,7 +79,7 @@ h1,h2,h3,h4,h5,a,p{
 
 .tasste{
   display: inline-block;
-    width: 50%;
+    /* width: 50%; */
     /* padding-left: 10%; */
     vertical-align: top;
     transform: translateY(50%);
@@ -85,7 +89,7 @@ h1,h2,h3,h4,h5,a,p{
 
 .riyad{
   display: inline-block;
-  width: 49%;
+  /* width: 49%; */
 }
 
 
@@ -275,6 +279,10 @@ li{
   text-align: center;
   margin-top: 10px;
   margin-bottom: 20px;
+}
+
+.slider-burger-image img{
+  width: 100%;
 }
 
 .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal{
