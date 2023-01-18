@@ -6,6 +6,7 @@ body{
 
 h1,h2,h3,h4,h5,a,p{
   font-family: 'Bebas Neue';
+  margin: auto;
 }
 .burger{
   width: 100%;
@@ -49,11 +50,6 @@ h1,h2,h3,h4,h5,a,p{
   font-size: 20.83px;
 }
 
-/* .heading{
-  font-size: 114px;
-  color: #3d2514;
-} */
-
 .nev{
 
   width: 100%;
@@ -71,8 +67,16 @@ h1,h2,h3,h4,h5,a,p{
 }
 
 .title{
-  display: block;
-  margin-bottom: 30px;
+  font-size: 94px;
+  font-family: 'Alfa Slab One',sans-serif;
+  color: #42200b;
+  text-shadow: 4px 5px #fee7ba;
+}
+.sub-title{
+  font-size: 50px;
+  font-family: 'Alfa Slab One',sans-serif;
+  color: #42200b;
+  text-shadow: 4px 5px #fee7ba;
 }
 
 .tasste{
@@ -81,7 +85,7 @@ h1,h2,h3,h4,h5,a,p{
     /* padding-left: 10%; */
     vertical-align: top;
     transform: translateY(50%);
-    margin-top: 5%;
+    margin-top: 10%;
     margin-left: 5rem;
 }
 
@@ -489,4 +493,10 @@ input[type=text], select {
   .tasste{
     margin-left: 2rem;
   }
+}
+.test{
+  font-size: 94px;
+  font-family: 'Alfa Slab One',sans-serif;
+  color: #42200b;
+  text-shadow: 4px 5px #fee7ba
 }
