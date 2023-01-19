@@ -110,24 +110,26 @@ li{
 }
 
 .ex-b{
-  width: 67%;
-  margin: auto;
+  width: 100%;
+  display: flex;
   position: relative;
+  justify-content: center;
 }
 
 .ex-popular{
-  display: inline-block;
   padding-top: 6%;
+  width: 100%;
+  text-align: end;
 }
 
 .ex-main{
-  display: inline-block;
-  margin-left: 5%;
+  width: 100%;
+  padding: 93px 0 0 40px;
 }
 
 
 .ex-test{
-  padding: 2.5%;
+  padding: 2%;
 }
 
 .button-type{
