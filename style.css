@@ -179,11 +179,10 @@ li{
   padding-top: 5%;
 }
 
-.ex-w{
+.swiper-wrapper{
   width: 95%;
   margin: auto;
 }
-
 
 .burger-item{
   width: 33%;
@@ -196,7 +195,6 @@ li{
   color: #3d2514;
   font-size: 37.5px;
 }
-
 
 .all-lorem_2{
   color: #3d2514;
