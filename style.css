@@ -179,10 +179,10 @@ li{
   padding-top: 5%;
 }
 
-.swiper-wrapper{
+/* .swipers-wrapperTow{
   width: 95%;
   margin: auto;
-}
+} */
 
 .burger-item{
   width: 33%;
@@ -488,6 +488,8 @@ input[type=text], select {
   margin-left: 2px;
   padding-right: 8%;
 }
+
+
 
 @media screen and (max-width:1400px) {
   .tasste{
