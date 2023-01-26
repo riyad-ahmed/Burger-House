@@ -133,9 +133,6 @@ li{
 }
 
 .button-type{
-  width: 10%;
-  margin: auto;
-  background-color: #ffc045;
   text-align: center;
   margin-top: 5%;
   margin-bottom: 2%;
@@ -146,6 +143,9 @@ li{
   line-height: 45px;
   margin: 0;
   font-size: 25px;
+  background-color: #ffc045;
+  display: inline-block;
+  padding: 10px 30px 10px 30px;
 }
 .Choose-Enjoy{
   font-size: 50px;
