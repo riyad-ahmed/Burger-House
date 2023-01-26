@@ -122,6 +122,10 @@ li{
   text-align: end;
 }
 
+.ex-w{
+  display: flex;
+}
+
 .ex-main{
   width: 100%;
   padding: 93px 0 0 40px;
@@ -185,8 +189,6 @@ li{
 } */
 
 .burger-item{
-  width: 33%;
-  display: inline-block;
   text-align: center;
   margin: auto;
 }
